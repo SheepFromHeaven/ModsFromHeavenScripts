@@ -1,0 +1,1 @@
+recipes.addShapeless(<minecraft:farmland>,[<minecraft:farmland>, <ore:listAllseed>]);
